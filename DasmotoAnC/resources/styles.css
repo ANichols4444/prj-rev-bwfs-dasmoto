@@ -1,0 +1,38 @@
+
+*{
+  font-family: Helvetica;
+}
+
+.title h1{
+  background-image: url("C:/Users/ANich/Documents/projects/codecademy/DasmotoAnC/resources/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.brushes h3{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames h3{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint h3{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price{
+  font-weight: bold;
+  color: blue;
+}
